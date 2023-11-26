@@ -1,8 +1,6 @@
 <template>
   <div>
-    <HomeTemplate/>
-    <Button label="botao"/>
-
+    
   </div>
 </template>
 
@@ -13,4 +11,3 @@
 <style>
 
 </style>
-
