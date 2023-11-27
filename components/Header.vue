@@ -20,7 +20,6 @@
     <template #end>
       <div class="flex align-items-center gap-2">
         <InputText placeholder="Search" type="text" class="w-8rem sm:w-auto" />
-        <Avatar image="/images/avatar/amyelsner.png" shape="circle" />
       </div>
     </template>
   </Menubar>
@@ -45,7 +44,6 @@ const items = ref([
   {
     label: 'Contact',
     icon: 'pi pi-envelope',
-    badge: 3
   }
 ]);
 
