@@ -11,6 +11,7 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
+    "@pinia/nuxt": "^0.5.1",
     "nuxt": "^3.8.1",
     "nuxt-primevue": "^0.2.1",
     "sass": "^1.69.5",
@@ -19,6 +20,7 @@
   },
   "dependencies": {
     "@nuxt/ui": "^2.11.0",
-    "@pinia/nuxt": "^0.5.1"
+    "normalize.css": "^8.0.1",
+    "pinia": "^2.1.7"
   }
 }
