@@ -34,17 +34,13 @@ const items = ref([
     icon: 'pi pi-home'
   },
   {
-    label: 'Features',
+    label: 'Eventos',
     icon: 'pi pi-star'
   },
   {
-    label: 'Projects',
+    label: 'Ingressos',
     icon: 'pi pi-search',
   },
-  {
-    label: 'Contact',
-    icon: 'pi pi-envelope',
-  }
 ]);
 
 </script>
